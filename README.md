@@ -10,3 +10,11 @@ Daftar tugas / branch
    
 Daftar perintah GiT
 …
+git branch (branch_name)
+git switch (branch_name)
+git add(branch_name).txt
+git commit -m "file pada branch (branch_name) telah di commit"
+git switch main
+git merge (branch_name)
+git log --oneline
+git push origin main
